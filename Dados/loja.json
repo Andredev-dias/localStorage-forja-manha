@@ -16,5 +16,59 @@
         "desc": "Mouse super sônico",
         "imagem": "../Dados/Images/mouse.webp",
         "preco": 100.0
+    },
+    {
+        "id": 1,
+        "desc": "WaterCooler 01 pro max",
+        "imagem": "../Dados/Images/w1.webp",
+        "preco": 400.0
+    },
+    {
+        "id": 2,
+        "desc": "Teclado mixuruca",
+        "imagem": "../Dados/Images/teclado.webp",
+        "preco": 10.0
+    },
+    {
+        "id": 3,
+        "desc": "Mouse super sônico",
+        "imagem": "../Dados/Images/mouse.webp",
+        "preco": 100.0
+    },
+    {
+        "id": 1,
+        "desc": "WaterCooler 01 pro max",
+        "imagem": "../Dados/Images/w1.webp",
+        "preco": 400.0
+    },
+    {
+        "id": 2,
+        "desc": "Teclado mixuruca",
+        "imagem": "../Dados/Images/teclado.webp",
+        "preco": 10.0
+    },
+    {
+        "id": 3,
+        "desc": "Mouse super sônico",
+        "imagem": "../Dados/Images/mouse.webp",
+        "preco": 100.0
+    },
+    {
+        "id": 1,
+        "desc": "WaterCooler 01 pro max",
+        "imagem": "../Dados/Images/w1.webp",
+        "preco": 400.0
+    },
+    {
+        "id": 2,
+        "desc": "Teclado mixuruca",
+        "imagem": "../Dados/Images/teclado.webp",
+        "preco": 10.0
+    },
+    {
+        "id": 3,
+        "desc": "Mouse super sônico",
+        "imagem": "../Dados/Images/mouse.webp",
+        "preco": 100.0
     }
 ]
