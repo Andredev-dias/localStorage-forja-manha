@@ -61,5 +61,14 @@ document.addEventListener("DOMContentLoaded", function(){
                 produtosContainer.appendChild(card)
             });
         }).catch((error) => console.log("Erro ao carregar dados", error))
+
+        $("#produtos-container").on("click", ".adicionar", function(){
+            const indexDoProduto = $(this).data("indice")
+            const produtoSelecionado = produtos[indexDoProduto]
+            let carrinho = JSON.parse(localStorage.getItem("carrinho")) || []
+            carrinho.push(produtoSelecionado)
+            localStorage.setItem("carrinho", JSON.stringify(carrinho))
+            alert("Produto adicionado com sucesso!!!")
+        })
 })
 
